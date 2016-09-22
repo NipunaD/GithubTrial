@@ -1,2 +1,10 @@
 C:\C#\GithubTrial\GithubTrial\bin\Debug\GithubTrial.exe.config
 C:\Users\niphlk\Documents\GithubTrial\GithubTrial\bin\Debug\GithubTrial.exe.config
+C:\Users\jalilk\Documents\GithubTrial\GithubTrial\bin\Debug\GithubTrial.exe.config
+C:\Users\jalilk\Documents\GithubTrial\GithubTrial\bin\Debug\GithubTrial.exe
+C:\Users\jalilk\Documents\GithubTrial\GithubTrial\bin\Debug\GithubTrial.pdb
+C:\Users\jalilk\Documents\GithubTrial\GithubTrial\obj\Debug\GithubTrial.csprojResolveAssemblyReference.cache
+C:\Users\jalilk\Documents\GithubTrial\GithubTrial\obj\Debug\GithubTrial.Properties.Resources.resources
+C:\Users\jalilk\Documents\GithubTrial\GithubTrial\obj\Debug\GithubTrial.csproj.GenerateResource.Cache
+C:\Users\jalilk\Documents\GithubTrial\GithubTrial\obj\Debug\GithubTrial.exe
+C:\Users\jalilk\Documents\GithubTrial\GithubTrial\obj\Debug\GithubTrial.pdb
