@@ -1,0 +1,2 @@
+C:\C#\GithubTrial\GithubTrial\bin\Debug\GithubTrial.exe.config
+C:\Users\niphlk\Documents\GithubTrial\GithubTrial\bin\Debug\GithubTrial.exe.config
